@@ -1,7 +1,4 @@
----
-layout: main
-title: Cours de ......
----
+
 
 # Page des cours à l'IUT de Montpellier de ......
 
