@@ -1,3 +1,21 @@
+---
+layout: main
+title: Cours de ......
+---
+
+# Page des cours à l'IUT de Montpellier de ......
+
+## Cours 2016-2017
+
+### En première année
+
+1. [Cours de Programmation Web -- Conception documentaire (HTML/CSS)](./ProgWeb-HTMLCSS/)
+
+### En deuxième année
+
+1. [Cours de Programmation Web -- Côté Serveur (PHP/MySQL/MVC)](./ProgWeb-CoteServeur/)
+<!-- 1. [Cours de Programmation Web -- Client Riche (JS/AJAX)](./ProgWeb-ClientRiche/) -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SebastienGagne/sebastiengagne.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
