@@ -1,6 +1,8 @@
 ---
 layout: main
+title: Cours de moi
 ---
+
 
 # Page des cours à l'IUT de Montpellier de ......
 
