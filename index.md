@@ -1,3 +1,4 @@
+layout:main
 
 # Page des cours à l'IUT de Montpellier de ......
 
